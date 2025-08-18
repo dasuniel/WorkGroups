@@ -9,7 +9,8 @@
 
 | Foto | Nombre | Mini Biografía |
 |------|--------|----------------|
-| ![Foto]![WhatsApp Image 2025-08-18 at 5 40 38 PM](https://github.com/user-attachments/assets/a8269fd6-448a-4cc0-98b0-2575fdbb33a3)
+| ![Foto]!![WhatsApp Image 2025-08-18 at 5 40 38 PM](https://github.com/user-attachments/assets/6770bc19-4a16-4ca2-88b8-fe82921e45ee)
+
  | Nombre Integrante 1 | Breve descripción (carrera, intereses, rol en el proyecto) |
 | ![Foto](link_foto) | Nombre Integrante 2 | Breve descripción |
 | ![Foto](link_foto) | Nombre Integrante 3 | Breve descripción |
