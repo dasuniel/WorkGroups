@@ -34,7 +34,7 @@ Mockups realizados con *Figma*
 <img width="180" height="400" alt="Captura de pantalla 2025-07-27 210934" src="https://github.com/user-attachments/assets/0f5da210-4e15-41ab-860a-3194c5403870" />
 <img width="180" height="400" alt="Captura de pantalla 2025-07-27 210900" src="https://github.com/user-attachments/assets/32003422-842e-4126-967d-fc58bdd44d18" />
 <img width="180" height="400" alt="Captura de pantalla 2025-07-27 210815" src="https://github.com/user-attachments/assets/2f742aa2-e9d9-4c6d-bb30-6914fab16c83" />
-
+-
 <img width="180" height="400" alt="Captura de pantalla 2025-07-27 210745" src="https://github.com/user-attachments/assets/fe2ce724-e1e6-4112-ac79-4e2b311c5a44" />
 <img width="180" height="400" alt="Captura de pantalla 2025-07-27 210724" src="https://github.com/user-attachments/assets/47419799-40a7-447d-a211-12474399b06b" />
 <img width="180" height="400" alt="Captura de pantalla 2025-07-27 210440" src="https://github.com/user-attachments/assets/25db1c1d-1fa0-486c-94aa-c9af275c42a5" />
