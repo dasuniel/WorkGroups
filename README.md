@@ -30,6 +30,7 @@
 
 ### 3️⃣ Mockups - Pantallas Principales
 Mockups realizados con *Figma*
+
 <img width="361" height="789" alt="Captura de pantalla 2025-07-27 210934" src="https://github.com/user-attachments/assets/0f5da210-4e15-41ab-860a-3194c5403870" />
 <img width="366" height="797" alt="Captura de pantalla 2025-07-27 210900" src="https://github.com/user-attachments/assets/32003422-842e-4126-967d-fc58bdd44d18" />
 <img width="358" height="790" alt="Captura de pantalla 2025-07-27 210815" src="https://github.com/user-attachments/assets/2f742aa2-e9d9-4c6d-bb30-6914fab16c83" />
