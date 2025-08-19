@@ -25,7 +25,7 @@
 ---
 
 ### 2️⃣ Diagrama de Clases (Inicial)
-![Diagrama de Clases](link_imagen_clases)
+<img width="1024" height="768" alt="Image" src="https://github.com/user-attachments/assets/f8f1d4c6-aab0-43db-9d8b-54b1c75fd14d" />
 
 ---
 
