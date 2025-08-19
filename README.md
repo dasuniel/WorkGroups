@@ -10,7 +10,8 @@
 | Foto | Nombre | Mini Biografía |
 |------|--------|----------------|
 | ![WhatsApp Image 2025-08-18 at 5 40 38 PM](https://github.com/user-attachments/assets/c19de633-fba5-448e-ad72-13a5cd0eedc4)| Daniel Santiago Rosas Osorio | Soy Daniel, tengo 20 años, me gusta ver deportes y tengo muchas ganas de aprender |
-| ![Foto](link_foto) | Nombre Integrante 2 | Breve descripción |
+| ![Foto](<img width="650" height="650" alt="image" src="https://github.com/user-attachments/assets/8f11d690-af2d-4dd8-a810-58d38131856d" />
+) | Tomas Felipe Guerra Hernández | Tengo 20 años, me gustan las series y los videojuegos, buscando apliar mis conocimientos |
 | ![Foto](link_foto) | Nombre Integrante 3 | Breve descripción |
 
 
