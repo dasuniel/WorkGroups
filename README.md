@@ -19,7 +19,8 @@
 ## 📂 Entregables
 
 ### 1️⃣ Diagrama de Casos de Uso (Inicial)
-![Casos de Uso.pdf](https://github.com/user-attachments/files/21851379/Casos.de.Uso.pdf)
+<img width="1024" height="768" alt="Image" src="https://github.com/user-attachments/assets/7a36bb36-0b25-4592-9761-a921098db62e" />
+<img width="1024" height="768" alt="Image" src="https://github.com/user-attachments/assets/15a1f19c-887e-49e5-8f84-3e9f2a516731" />
 
 ---
 
