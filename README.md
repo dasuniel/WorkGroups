@@ -11,7 +11,7 @@
 |------|--------|----------------|
 | ![WhatsApp Image 2025-08-18 at 5 40 38 PM](https://github.com/user-attachments/assets/c19de633-fba5-448e-ad72-13a5cd0eedc4)| Daniel Santiago Rosas Osorio | Soy Daniel, tengo 20 años, me gusta ver deportes y tengo muchas ganas de aprender |
 | ![WhatsApp Image 2025-08-18 at 5 40 38 PM](https://github.com/user-attachments/assets/c19de633-fba5-448e-ad72-13a5cd0eedc4) | Tomas Felipe Guerra Hernández | Tengo 20 años, me gustan las series y los videojuegos, buscando apliar mis conocimientos |
-| ![Foto](link_foto) | Nombre Integrante 3 | Breve descripción |
+| ![Image](https://github.com/user-attachments/assets/1854a68f-3910-434a-9ec5-ead668d42f64) | Nombre Integrante 3 | Breve descripción |
 
 
 ---
